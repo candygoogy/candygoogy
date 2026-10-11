@@ -1,7 +1,5 @@
 <h3 align="center">Hi, I'm candygoogy</h3>
 
-<p align="center">IT technician by trade, web developer by insomnia.</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,py,ts,windows,linux,cloudflare&perline=6" alt="Rust, Python, TypeScript, Windows, Linux, Cloudflare">
 </p>
