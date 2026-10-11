@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Building <a href="https://fettle.page"><b>Fettle</b></a>: a free, open-source check-up for Windows PCs, in plain words.
+  Building <a href="https://fettle.page"><b>Fettle</b></a>: a free, open-source check-up for Windows PCs, in plain words.<br>
+  Also <a href="https://github.com/candygoogy/candygoogy-bot"><b>candygoogy-bot</b></a>: a Telegram bot that wakes, sleeps and shuts down the machines on your LAN.
 </p>
 
 <p align="center">
