@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  Merged fixes in <a href="https://github.com/pi-hole/pi-hole/pull/6711">Pi-hole</a> and <a href="https://github.com/pypa/distlib/pull/269">distlib</a> (the library pip uses to install command-line scripts).
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/699600164180066376"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://t.me/candygoogy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:hello@candygoogy.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"></a>
