@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  Building <a href="https://fettle.page"><b>Fettle</b></a>: a free, open-source check-up for Windows PCs, in plain words.<br>
-  Also <a href="https://github.com/fettle-page/idiff"><b>idiff</b></a>: a command-line tool that shows what an installer did to your Windows PC, and what the uninstall left behind.<br>
-  And <a href="https://github.com/candygoogy/candygoogy-bot"><b>candygoogy-bot</b></a>: a Telegram bot that wakes, sleeps and shuts down the machines on your LAN.
+  Building <a href="https://fettle.page"><b>Fettle</b></a>: a free, open-source check-up for Windows PCs, in plain words, and its sister tool <a href="https://github.com/fettle-page/idiff"><b>idiff</b></a>, which shows what an installer did to your PC and what the uninstall left behind.<br>
+  Also <a href="https://github.com/candygoogy/candygoogy-bot"><b>candygoogy-bot</b></a>: a Telegram bot that wakes, sleeps and shuts down the machines on your LAN.
 </p>
 
 <p align="center">
