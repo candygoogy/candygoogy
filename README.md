@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Merged fixes in <a href="https://github.com/pi-hole/pi-hole/pull/6711">Pi-hole</a> and <a href="https://github.com/pypa/distlib/pull/269">distlib</a> (the library pip uses to install command-line scripts).
+  Merged fixes in Pi-hole (<a href="https://github.com/pi-hole/pi-hole/pull/6711">core</a> and <a href="https://github.com/pi-hole/web/pull/3883">web interface</a>) and <a href="https://github.com/pypa/distlib/pull/269">distlib</a> (the library pip uses to install command-line scripts).
 </p>
 
 <p align="center">
