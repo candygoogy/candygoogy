@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  Building <a href="https://fettle.page"><b>Fettle</b></a>: a free, open-source check-up for Windows PCs, in plain words, and its sister tool <a href="https://github.com/fettle-page/idiff"><b>idiff</b></a>, which shows what an installer did to your PC and what the uninstall left behind.<br>
-  Also <a href="https://github.com/candygoogy/tellall"><b>tellall</b></a>: see in plain sentences what an image or a copied text tells about you.
+  Building <a href="https://fettle.page"><b>Fettle</b></a>, a free, open-source check-up for Windows PCs, in plain words.<br>
+  Its sister tool <a href="https://github.com/fettle-page/idiff"><b>idiff</b></a> shows what an installer did to your PC and what the uninstall left behind.<br>
+  Also <a href="https://github.com/candygoogy/tellall"><b>tellall</b></a>: what an image or a copied text tells about you.
 </p>
 
 <p align="center">
-  Merged fixes in Pi-hole (<a href="https://github.com/pi-hole/pi-hole/pull/6711">core</a> and <a href="https://github.com/pi-hole/web/pull/3883">web interface</a>), <a href="https://github.com/pypa/distlib/pull/269">distlib</a> (the library pip uses to install command-line scripts) and Raycast's <a href="https://github.com/raycast/extensions/pull/32767">Everything&nbsp;Search</a> extension.
+  Merged fixes in Pi-hole (<a href="https://github.com/pi-hole/pi-hole/pull/6711">core</a> and <a href="https://github.com/pi-hole/web/pull/3883">web interface</a>), <a href="https://github.com/pypa/distlib/pull/269">distlib</a> (used by pip)<br>
+  and Raycast's <a href="https://github.com/raycast/extensions/pull/32767">Everything&nbsp;Search</a> extension.
 </p>
 
 <p align="center">
