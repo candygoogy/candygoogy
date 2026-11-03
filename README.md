@@ -6,8 +6,7 @@
 
 <p align="center">
   Building <a href="https://fettle.page"><b>Fettle</b></a>, a free, open-source check-up for Windows PCs, in plain words.<br>
-  Its sister tool <a href="https://github.com/fettle-page/idiff"><b>idiff</b></a> shows what an installer did to your PC and what the uninstall left behind.<br>
-  Also <a href="https://github.com/candygoogy/tellall"><b>tellall</b></a>: what an image or a copied text tells about you.
+  Also <a href="https://github.com/candygoogy/featherplay"><b>featherplay</b></a>, an unofficial native Windows player for YouTube Music.
 </p>
 
 <p align="center">
