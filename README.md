@@ -11,7 +11,7 @@
 
 <p align="center">
   Merged fixes in Pi-hole (<a href="https://github.com/pi-hole/pi-hole/pull/6711">core</a> and <a href="https://github.com/pi-hole/web/pull/3883">web interface</a>), <a href="https://github.com/pypa/distlib/pull/269">distlib</a> (used by pip)<br>
-  and Raycast's <a href="https://github.com/raycast/extensions/pull/32767">Everything&nbsp;Search</a> extension.
+  and Raycast's <a href="https://github.com/raycast/extensions/pull/32767">Everything&nbsp;Search</a> and <a href="https://github.com/raycast/extensions/pull/32787">Zen&nbsp;Browser</a> extensions.
 </p>
 
 <p align="center">
